@@ -1,0 +1,22 @@
+Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+1. Write one-sentence summaries, for each chapter of our thriller novel.
+2. Divide the chapter list into Act 1, 2A, 2B, and 3.
+3. There will be 40 Chapters.
+4. The one-sentence summaries will simply state the main plot event that moves the story to its riveting conclusion.
+Tag output as:
+[Chapter Summaries]
+Act 1.
+Write the summaries here.
+Act 2A.
+Write the summaries here.
+Act 2B.
+Write the summaries here.
+Act 3.
+Write the summaries here.
+[/Chapter Summaries]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested. The user will review once all the tasks have been completed.

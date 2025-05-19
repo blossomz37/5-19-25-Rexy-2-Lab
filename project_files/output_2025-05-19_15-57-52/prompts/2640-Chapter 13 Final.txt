@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 13 Plan: <<2610-Chapter 13 Plan>>
+4. Chapter 13 Draft: <<2620-Chapter 13 Draft>>
+5. Chapter 13 Edit: <<2630-Chapter 13 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 13.
+2. Tag Output: [chapter 13 final] Write the chapter here. [/chapter 13 final]

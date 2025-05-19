@@ -1,0 +1,10 @@
+{
+    "title": "Chapter 43 Edit",
+    "description": "Create Chapter 43 Edit",
+    "prompts": [
+        "4130-Chapter 43 Edit"
+    ],
+    "output": "Chapter 43 Edit.txt",
+    "output_mode": "write",
+    "ai_profile": "openai.json"
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Chapter 4 Final",
+    "description": "Create Chapter 4 Final",
+    "prompts": [
+        "2190-Chapter 4 Final"
+    ],
+    "output": "Story So Far.txt",
+    "output_mode": "write",
+    "ai_profile": "openai.json"
+}

@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 2 Plan: <<2060-Chapter 2 Plan>>
+4. Chapter 2 Draft: <<2070-Chapter 2 Draft>>
+5. Chapter 2 Edit: <<2080-Chapter 2 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 2.
+2. Tag Output: [chapter 2 final] Write the chapter here. [/chapter 2 final]

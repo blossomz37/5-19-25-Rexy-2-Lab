@@ -1,0 +1,10 @@
+{
+    "title": "Supporting Characters",
+    "description": "Create Supporting Characters",
+    "prompts": [
+        "1090-Supporting Characters"
+    ],
+    "output": "Story Bible.txt",
+    "output_mode": "append",
+    "ai_profile": "openai.json"
+}

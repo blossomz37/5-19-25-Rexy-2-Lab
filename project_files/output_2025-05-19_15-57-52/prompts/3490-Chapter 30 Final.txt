@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 30 Plan: <<3460-Chapter 30 Plan>>
+4. Chapter 30 Draft: <<3470-Chapter 30 Draft>>
+5. Chapter 30 Edit: <<3480-Chapter 30 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 30.
+2. Tag Output: [chapter 30 final] Write the chapter here. [/chapter 30 final]

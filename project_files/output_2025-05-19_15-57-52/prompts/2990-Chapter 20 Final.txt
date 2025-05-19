@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 20 Plan: <<2960-Chapter 20 Plan>>
+4. Chapter 20 Draft: <<2970-Chapter 20 Draft>>
+5. Chapter 20 Edit: <<2980-Chapter 20 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 20.
+2. Tag Output: [chapter 20 final] Write the chapter here. [/chapter 20 final]

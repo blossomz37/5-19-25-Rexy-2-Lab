@@ -1,0 +1,10 @@
+{
+    "title": "Setting Details",
+    "description": "Create Setting Details",
+    "prompts": [
+        "1080-Setting Details"
+    ],
+    "output": "Story Bible.txt",
+    "output_mode": "append",
+    "ai_profile": "openai.json"
+}

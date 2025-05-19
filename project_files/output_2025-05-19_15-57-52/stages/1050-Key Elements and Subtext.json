@@ -1,0 +1,10 @@
+{
+    "title": "Key Elements and Subtext",
+    "description": "Create Key Elements and Subtext",
+    "prompts": [
+        "1050-Key Elements and Subtext"
+    ],
+    "output": "Story Bible.txt",
+    "output_mode": "append",
+    "ai_profile": "openai.json"
+}

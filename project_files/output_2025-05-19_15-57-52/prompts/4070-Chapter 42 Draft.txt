@@ -1,0 +1,8 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 42 Plan: <<4060-Chapter 42 Plan>>
+***
+Instructions:
+1. Write Chapter 42.
+2. Tag Output: [chapter 42 draft] Write the chapter here. [/chapter 42 draft]

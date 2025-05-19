@@ -1,0 +1,10 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 41 Plan: <<4010-Chapter 41 Plan>>
+4. Chapter 41 Draft: <<4020-Chapter 41 Draft>>
+***
+Instructions:
+1. Create an actionable edit plan for Chapter 41.
+2. Include specific passages and opportunities to address inconsistencies, plot holes and contrivances; improve clarity, avoid clichés, vague and purple prose, character interaction; and enhance engagement.
+3. Tag Output: [chapter 41 edit plan] Write the chapter here. [/chapter 41 edit plan]

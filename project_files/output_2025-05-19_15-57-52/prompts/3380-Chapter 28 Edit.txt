@@ -1,0 +1,10 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 28 Plan: <<3360-Chapter 28 Plan>>
+4. Chapter 28 Draft: <<3370-Chapter 28 Draft>>
+***
+Instructions:
+1. Create an actionable edit plan for Chapter 28.
+2. Include specific passages and opportunities to address inconsistencies, plot holes and contrivances; improve clarity, avoid clichés, vague and purple prose, character interaction; and enhance engagement.
+3. Tag Output: [chapter 28 edit plan] Write the chapter here. [/chapter 28 edit plan]

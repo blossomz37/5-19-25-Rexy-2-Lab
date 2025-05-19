@@ -1,0 +1,10 @@
+{
+    "title": "Chapter 35 Plan",
+    "description": "Create Chapter 35 Plan",
+    "prompts": [
+        "3710-Chapter 35 Plan"
+    ],
+    "output": "Chapter 35 Plan.txt",
+    "output_mode": "write",
+    "ai_profile": "openai.json"
+}

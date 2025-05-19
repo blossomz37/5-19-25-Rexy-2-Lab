@@ -1,0 +1,8 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 9 Plan: <<2410-Chapter 9 Plan>>
+***
+Instructions:
+1. Write Chapter 9.
+2. Tag Output: [chapter 9 draft] Write the chapter here. [/chapter 9 draft]

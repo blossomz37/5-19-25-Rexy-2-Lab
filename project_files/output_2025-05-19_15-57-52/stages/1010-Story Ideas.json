@@ -1,0 +1,10 @@
+{
+    "title": "Story Ideas",
+    "description": "Create Story Ideas",
+    "prompts": [
+        "1010-Story Ideas"
+    ],
+    "output": "Story Ideas.txt",
+    "output_mode": "write",
+    "ai_profile": "openai.json"
+}

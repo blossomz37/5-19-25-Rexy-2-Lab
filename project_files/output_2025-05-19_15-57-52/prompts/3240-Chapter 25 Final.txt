@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 25 Plan: <<3210-Chapter 25 Plan>>
+4. Chapter 25 Draft: <<3220-Chapter 25 Draft>>
+5. Chapter 25 Edit: <<3230-Chapter 25 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 25.
+2. Tag Output: [chapter 25 final] Write the chapter here. [/chapter 25 final]

@@ -1,0 +1,10 @@
+{
+    "title": "Antagonist Arc",
+    "description": "Create Antagonist Arc",
+    "prompts": [
+        "1070-Antagonist Arc"
+    ],
+    "output": "Story Bible.txt",
+    "output_mode": "append",
+    "ai_profile": "openai.json"
+}

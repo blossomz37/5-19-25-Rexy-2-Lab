@@ -1,0 +1,10 @@
+{
+    "title": "Chapter 8 Draft",
+    "description": "Create Chapter 8 Draft",
+    "prompts": [
+        "2370-Chapter 8 Draft"
+    ],
+    "output": "Chapter 8 Draft.txt",
+    "output_mode": "write",
+    "ai_profile": "openai.json"
+}

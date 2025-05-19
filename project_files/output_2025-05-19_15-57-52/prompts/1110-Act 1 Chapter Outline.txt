@@ -1,0 +1,26 @@
+Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+2. Chapter Summaries: <<Chapter Summaries>>
+3. Outline: [Outline] <<Outline>> [/Outline]
+Prompt:
+Create a detailed chapter-by-Chapter Outline for Act 1 of our thriller. (Bear in mind that our novel will have 40 Chapters and that the acts will be structured as 1, 2A, 2B, and 3.)
+Each chapter should include:
+1. Title
+2. POV character
+3. Chapter summary (1 paragraph)
+4. Chapter tone (suspenseful, ominous, fast-paced)
+5. Chapter goal/purpose
+6. Complication or twist encountered
+7. Key decision or action taken
+8. Consequences of action
+9. POV character’s emotional reaction
+10. How the chapter emotionally engages readers (tension, dread, anxiety, anticipation)
+11. Tropes used (character, theme, place, situation)
+Tag output as:
+[Act 1 Chapter Outline]
+Create a detailed chapter-by-Chapter Outline here.
+[/Act 1 Chapter Outline]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested. The user will review once all the tasks have been completed.

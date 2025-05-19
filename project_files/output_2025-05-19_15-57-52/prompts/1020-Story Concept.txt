@@ -1,0 +1,25 @@
+Project Files:
+Story Ideas: <<Story Ideas>>
+Prompt:
+Develop the story idea further so that there is a strong story concept that has:
+1. A core conflict driving the thriller.
+2. High stakes involved (both personal and societal).
+3. Key elements that make the story gripping and thrilling.
+4. How the story caters to thriller reader expectations, especially Amazon Kindle readers.
+Generate a structured story concept that I can send to my agent, including:
+- Title
+- Genre
+- Subgenre
+- Marketing Tropes and Tags
+- Tagline
+- Hook
+- Pitch
+- Synopsis
+Tag output as:
+[story concept]
+Write structured information here.
+[/story concept]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.

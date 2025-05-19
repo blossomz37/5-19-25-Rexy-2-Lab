@@ -15,6 +15,9 @@
 import pandas as pd
 import os
 import json
+# Import the standard tkinter GUI toolkit and alias it as ‘tk’ for creating windows and widgets.
+# Import the filedialog submodule to prompt the user to open/save files,
+# and the messagebox submodule to display popup alerts and error/info dialogs.
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import logging

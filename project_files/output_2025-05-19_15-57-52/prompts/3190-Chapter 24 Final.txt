@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 24 Plan: <<3160-Chapter 24 Plan>>
+4. Chapter 24 Draft: <<3170-Chapter 24 Draft>>
+5. Chapter 24 Edit: <<3180-Chapter 24 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 24.
+2. Tag Output: [chapter 24 final] Write the chapter here. [/chapter 24 final]

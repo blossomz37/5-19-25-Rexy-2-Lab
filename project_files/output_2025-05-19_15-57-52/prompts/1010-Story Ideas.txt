@@ -1,0 +1,15 @@
+Prompt:
+Provide 5 story ideas for a thriller novella. Make the story ideas suspenseful, gripping, and believable, with a focus on high stakes and potential twists. Each idea should:
+1. Incorporate at least three common thriller subgenres or elements (e.g., psychological, mystery, crime, suspense, conspiracy, espionage, techno-thriller, political thriller, etc.).
+2. Be suspenseful, gripping, and believable.
+3. Highlight high stakes clearly (both personal and external).
+4. Include potential twists.
+5. Explicitly name or imply a core thriller trope or "hook" (e.g., ticking clock, hidden identity, race against time).
+Tag output as:
+[story ideas]
+Write structured information here.
+[/story ideas]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.

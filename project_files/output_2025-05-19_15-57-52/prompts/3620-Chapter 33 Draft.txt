@@ -1,0 +1,8 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 33 Plan: <<3610-Chapter 33 Plan>>
+***
+Instructions:
+1. Write Chapter 33.
+2. Tag Output: [chapter 33 draft] Write the chapter here. [/chapter 33 draft]

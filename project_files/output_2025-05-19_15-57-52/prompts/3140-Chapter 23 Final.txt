@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 23 Plan: <<3110-Chapter 23 Plan>>
+4. Chapter 23 Draft: <<3120-Chapter 23 Draft>>
+5. Chapter 23 Edit: <<3130-Chapter 23 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 23.
+2. Tag Output: [chapter 23 final] Write the chapter here. [/chapter 23 final]

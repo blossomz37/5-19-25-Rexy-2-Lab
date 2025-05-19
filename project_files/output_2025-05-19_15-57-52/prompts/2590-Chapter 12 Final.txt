@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 12 Plan: <<2560-Chapter 12 Plan>>
+4. Chapter 12 Draft: <<2570-Chapter 12 Draft>>
+5. Chapter 12 Edit: <<2580-Chapter 12 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 12.
+2. Tag Output: [chapter 12 final] Write the chapter here. [/chapter 12 final]

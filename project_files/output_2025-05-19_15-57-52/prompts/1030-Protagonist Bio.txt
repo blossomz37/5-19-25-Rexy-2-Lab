@@ -1,0 +1,19 @@
+Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Give me a detailed character bio for the protagonist, including:
+- Name
+- Physical Description
+- Background ​​
+- Relevant Skills
+- Flaws
+- Motivations
+Add any sections that you feel will add depth to the character and enhance the story. Focus on aspects that are relevant to a thriller – their skills, vulnerabilities, secrets, and potential connections to the central mystery or danger.
+Tag output as:
+[protagonist bio]
+Write structured information here.
+[/protagonist bio]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.

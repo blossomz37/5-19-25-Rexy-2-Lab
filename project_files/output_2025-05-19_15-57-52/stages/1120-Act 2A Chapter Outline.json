@@ -1,0 +1,10 @@
+{
+    "title": "Act 2A Chapter Outline",
+    "description": "Create Act 2A Chapter Outline",
+    "prompts": [
+        "1120-Act 2A Chapter Outline"
+    ],
+    "output": "Outline.txt",
+    "output_mode": "append",
+    "ai_profile": "openai.json"
+}

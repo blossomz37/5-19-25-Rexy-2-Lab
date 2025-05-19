@@ -1,0 +1,10 @@
+{
+    "title": "Chapter Summaries",
+    "description": "Create Chapter Summaries",
+    "prompts": [
+        "1100-Chapter Summaries"
+    ],
+    "output": "Chapter Summaries.txt",
+    "output_mode": "write",
+    "ai_profile": "openai.json"
+}

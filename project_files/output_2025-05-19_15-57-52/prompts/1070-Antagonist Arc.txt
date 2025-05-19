@@ -1,0 +1,17 @@
+Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Detail the antagonist’s journey and trajectory throughout the thriller. Address clearly:
+1. Shifts in power, desperation, or methods.
+2. Whether they achieve or fail their goals.
+3. Significant changes in motivation or understanding, if any.
+4. Final status (defeated, partially successful, or fate unknown).
+5. How the antagonist’s arc affects suspense, tension, and reader perception.
+Tag output as:
+[antagonist arc]
+Write structured information here.
+[/antagonist arc]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.

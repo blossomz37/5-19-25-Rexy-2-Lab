@@ -1,0 +1,9 @@
+Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter 47 Plan: <<4310-Chapter 47 Plan>>
+4. Chapter 47 Draft: <<4320-Chapter 47 Draft>>
+5. Chapter 47 Edit: <<4330-Chapter 47 Edit>>***
+Instructions:
+1. Write the final polished prose for Chapter 47.
+2. Tag Output: [chapter 47 final] Write the chapter here. [/chapter 47 final]
