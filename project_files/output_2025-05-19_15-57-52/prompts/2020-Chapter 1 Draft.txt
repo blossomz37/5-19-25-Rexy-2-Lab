@@ -1,8 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 1 Plan: <<2010-Chapter 1 Plan>>
-***
-Instructions:
-1. Write Chapter 1.
-2. Tag Output: [chapter 1 draft] Write the chapter here. [/chapter 1 draft]

@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 40 Plan: <<3960-Chapter 40 Plan>>
-4. Chapter 40 Draft: <<3970-Chapter 40 Draft>>
-5. Chapter 40 Edit: <<3980-Chapter 40 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 40.
-2. Tag Output: [chapter 40 final] Write the chapter here. [/chapter 40 final]

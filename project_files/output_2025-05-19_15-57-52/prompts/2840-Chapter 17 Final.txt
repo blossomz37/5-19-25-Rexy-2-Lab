@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 17 Plan: <<2810-Chapter 17 Plan>>
-4. Chapter 17 Draft: <<2820-Chapter 17 Draft>>
-5. Chapter 17 Edit: <<2830-Chapter 17 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 17.
-2. Tag Output: [chapter 17 final] Write the chapter here. [/chapter 17 final]

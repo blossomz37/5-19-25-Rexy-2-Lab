@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 29 Plan: <<3410-Chapter 29 Plan>>
-4. Chapter 29 Draft: <<3420-Chapter 29 Draft>>
-5. Chapter 29 Edit: <<3430-Chapter 29 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 29.
-2. Tag Output: [chapter 29 final] Write the chapter here. [/chapter 29 final]

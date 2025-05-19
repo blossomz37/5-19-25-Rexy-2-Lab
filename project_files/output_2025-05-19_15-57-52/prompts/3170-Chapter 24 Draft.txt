@@ -1,8 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 24 Plan: <<3160-Chapter 24 Plan>>
-***
-Instructions:
-1. Write Chapter 24.
-2. Tag Output: [chapter 24 draft] Write the chapter here. [/chapter 24 draft]

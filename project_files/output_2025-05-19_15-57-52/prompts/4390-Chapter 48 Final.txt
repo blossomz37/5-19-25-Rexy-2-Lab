@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 48 Plan: <<4360-Chapter 48 Plan>>
-4. Chapter 48 Draft: <<4370-Chapter 48 Draft>>
-5. Chapter 48 Edit: <<4380-Chapter 48 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 48.
-2. Tag Output: [chapter 48 final] Write the chapter here. [/chapter 48 final]

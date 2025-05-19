@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 15 Plan: <<2710-Chapter 15 Plan>>
-4. Chapter 15 Draft: <<2720-Chapter 15 Draft>>
-5. Chapter 15 Edit: <<2730-Chapter 15 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 15.
-2. Tag Output: [chapter 15 final] Write the chapter here. [/chapter 15 final]

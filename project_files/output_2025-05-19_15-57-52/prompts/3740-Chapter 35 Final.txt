@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 35 Plan: <<3710-Chapter 35 Plan>>
-4. Chapter 35 Draft: <<3720-Chapter 35 Draft>>
-5. Chapter 35 Edit: <<3730-Chapter 35 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 35.
-2. Tag Output: [chapter 35 final] Write the chapter here. [/chapter 35 final]

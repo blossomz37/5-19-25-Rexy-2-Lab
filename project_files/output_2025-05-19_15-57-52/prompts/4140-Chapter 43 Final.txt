@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 43 Plan: <<4110-Chapter 43 Plan>>
-4. Chapter 43 Draft: <<4120-Chapter 43 Draft>>
-5. Chapter 43 Edit: <<4130-Chapter 43 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 43.
-2. Tag Output: [chapter 43 final] Write the chapter here. [/chapter 43 final]

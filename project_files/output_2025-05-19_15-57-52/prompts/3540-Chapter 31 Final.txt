@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 31 Plan: <<3510-Chapter 31 Plan>>
-4. Chapter 31 Draft: <<3520-Chapter 31 Draft>>
-5. Chapter 31 Edit: <<3530-Chapter 31 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 31.
-2. Tag Output: [chapter 31 final] Write the chapter here. [/chapter 31 final]

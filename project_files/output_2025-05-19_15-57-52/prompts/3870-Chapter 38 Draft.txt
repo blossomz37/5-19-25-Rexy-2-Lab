@@ -1,8 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 38 Plan: <<3860-Chapter 38 Plan>>
-***
-Instructions:
-1. Write Chapter 38.
-2. Tag Output: [chapter 38 draft] Write the chapter here. [/chapter 38 draft]

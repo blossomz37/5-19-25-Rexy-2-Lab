@@ -1,8 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 35 Plan: <<3710-Chapter 35 Plan>>
-***
-Instructions:
-1. Write Chapter 35.
-2. Tag Output: [chapter 35 draft] Write the chapter here. [/chapter 35 draft]

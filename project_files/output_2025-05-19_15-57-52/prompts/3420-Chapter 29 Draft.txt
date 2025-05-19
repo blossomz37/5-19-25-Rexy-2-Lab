@@ -1,8 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 29 Plan: <<3410-Chapter 29 Plan>>
-***
-Instructions:
-1. Write Chapter 29.
-2. Tag Output: [chapter 29 draft] Write the chapter here. [/chapter 29 draft]

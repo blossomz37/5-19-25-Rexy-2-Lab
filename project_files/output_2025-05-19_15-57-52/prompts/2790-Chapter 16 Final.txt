@@ -1,9 +1,0 @@
-Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter 16 Plan: <<2760-Chapter 16 Plan>>
-4. Chapter 16 Draft: <<2770-Chapter 16 Draft>>
-5. Chapter 16 Edit: <<2780-Chapter 16 Edit>>***
-Instructions:
-1. Write the final polished prose for Chapter 16.
-2. Tag Output: [chapter 16 final] Write the chapter here. [/chapter 16 final]

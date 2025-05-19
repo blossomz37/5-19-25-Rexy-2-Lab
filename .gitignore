@@ -82,4 +82,4 @@ dmypy.json
 # macOS
 .DS_Store
 # Ignore all folders in project_files that begin with 'project'
-project_files/output*/
+project_files/output_*/
