@@ -1,0 +1,336 @@
+﻿file_ID,chapter_number,file_type,name,prompt,ai_model,output,output_mode,quantity,increment
+1010,,story_elements,Story Ideas,"Prompt:
+Provide 5 story ideas for a thriller novella. Make the story ideas suspenseful, gripping, and believable, with a focus on high stakes and potential twists. Each idea should:
+1. Incorporate at least three common thriller subgenres or elements (e.g., psychological, mystery, crime, suspense, conspiracy, espionage, techno-thriller, political thriller, etc.).
+2. Be suspenseful, gripping, and believable.
+3. Highlight high stakes clearly (both personal and external).
+4. Include potential twists.
+5. Explicitly name or imply a core thriller trope or ""hook"" (e.g., ticking clock, hidden identity, race against time).
+Tag output as:
+[story ideas]
+Write structured information here.
+[/story ideas]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Ideas.txt,write,1,1
+1020,,story_elements,Story Concept,"Project Files:
+Story Ideas: <<Story Ideas>>
+Prompt:
+Develop the story idea further so that there is a strong story concept that has:
+1. A core conflict driving the thriller.
+2. High stakes involved (both personal and societal).
+3. Key elements that make the story gripping and thrilling.
+4. How the story caters to thriller reader expectations, especially Amazon Kindle readers.
+Generate a structured story concept that I can send to my agent, including:
+- Title
+- Genre
+- Subgenre
+- Marketing Tropes and Tags
+- Tagline
+- Hook
+- Pitch
+- Synopsis
+Tag output as:
+[story concept]
+Write structured information here.
+[/story concept]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,write,1,1
+1030,,story_elements,Protagonist Bio,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Give me a detailed character bio for the protagonist, including:
+- Name
+- Physical Description
+- Background ​​
+- Relevant Skills
+- Flaws
+- Motivations
+Add any sections that you feel will add depth to the character and enhance the story. Focus on aspects that are relevant to a thriller – their skills, vulnerabilities, secrets, and potential connections to the central mystery or danger.
+Tag output as:
+[protagonist bio]
+Write structured information here.
+[/protagonist bio]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1040,,story_elements,Antagonist Bio,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Give me a detailed character bio for the antagonist. Focus on their motivations, methods, secrets, and their relationship to the protagonist and the central conflict. At minimum the bio should including:
+- Name
+- Physical Description
+- Background ​​
+- Relevant Skills
+- Flaws
+- Motivations
+Add any sections that you feel will add depth to the character and enhance the story.
+Tag output as:
+[antagonist bio]
+Write structured information here.
+[/antagonist bio]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1050,,story_elements,Key Elements and Subtext,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Identify and list specific thriller elements, subgenres, and obligatory scenes (e.g., Hero at the Mercy of the Villain, icking Clock Scenario, False Resolution) that must appear in the story.
+For each selected element, clearly detail:
+1. Specific scenes and plot points crucial to suspense.
+2. Deliberate red herrings and misdirections to heighten uncertainty.
+3. Major twists, reveals, and shocking turning points.
+4. How each element emotionally engages readers (anxiety, anticipation) and reinforces urgency and high stakes.
+Tag output as:
+[key elements and twists]
+Write structured information here.
+[/key elements and twists]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1060,,story_elements,Protagonist Arc,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Clearly plot the protagonist’s internal and external journey throughout the thriller. Detail specifically:
+1. Internal arc: fears, doubts, growth, and character change.
+2. External arc: challenges faced, discoveries made, dangers encountered, and conflicts resolved.
+3. How internal and external arcs connect, influencing one another, and contributing to overall suspense.
+4. How the arc increases tension and keeps thriller readers engaged.
+Tag output as:
+[protagonist arc]
+Write structured information here.
+[/protagonist arc]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1070,,story_elements,Antagonist Arc,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Detail the antagonist’s journey and trajectory throughout the thriller. Address clearly:
+1. Shifts in power, desperation, or methods.
+2. Whether they achieve or fail their goals.
+3. Significant changes in motivation or understanding, if any.
+4. Final status (defeated, partially successful, or fate unknown).
+5. How the antagonist’s arc affects suspense, tension, and reader perception.
+Tag output as:
+[antagonist arc]
+Write structured information here.
+[/antagonist arc]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1080,,story_elements,Setting Details,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Describe the primary setting(s) for the thriller in detail. Clearly specify:
+1. Geographic location(s) and time period.
+2. Specific key locations and their descriptions (e.g., hospital, cabin, courthouse).
+3. Atmosphere and mood of each location (tense, claustrophobic, gritty, etc.).
+4. How the setting enhances suspense and reader engagement.
+5. ypical weather conditions and their influence on the story.
+Tag output as:
+[setting details]
+Write structured information here.
+[/setting details]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1090,,story_bible,Supporting Characters,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+Provide short, focused bios for supporting characters in the thriller story. Ensure each supporting character contributes meaningfully to thriller tension and suspense. Include clearly:
+1. Their role in the story (ally, suspect, victim, law enforcement, etc.).
+2. Relevant skills, knowledge, or connections.
+3. Key motivations or goals.
+4. Potential impact on the protagonist, antagonist, or main plot.
+Tag output as:
+[supporting characters]
+Write structured information here.
+[/supporting characters]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
+1100,,Chapter Summaries,Chapter Summaries,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+Prompt:
+1. Write one-sentence summaries, for each chapter of our thriller novel.
+2. Divide the chapter list into Act 1, 2A, 2B, and 3.
+3. There will be 40 Chapters.
+4. The one-sentence summaries will simply state the main plot event that moves the story to its riveting conclusion.
+Tag output as:
+[Chapter Summaries]
+Act 1.
+Write the summaries here.
+Act 2A.
+Write the summaries here.
+Act 2B.
+Write the summaries here.
+Act 3.
+Write the summaries here.
+[/Chapter Summaries]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested. The user will review once all the tasks have been completed.",openai.json,Chapter Summaries.txt,write,1,1
+1110,,Outline,Act 1 Chapter Outline,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+2. Chapter Summaries: <<Chapter Summaries>>
+3. Outline: [Outline] <<Outline>> [/Outline]
+Prompt:
+Create a detailed chapter-by-Chapter Outline for Act 1 of our thriller. (Bear in mind that our novel will have 40 Chapters and that the acts will be structured as 1, 2A, 2B, and 3.)
+Each chapter should include:
+1. Title
+2. POV character
+3. Chapter summary (1 paragraph)
+4. Chapter tone (suspenseful, ominous, fast-paced)
+5. Chapter goal/purpose
+6. Complication or twist encountered
+7. Key decision or action taken
+8. Consequences of action
+9. POV character’s emotional reaction
+10. How the chapter emotionally engages readers (tension, dread, anxiety, anticipation)
+11. Tropes used (character, theme, place, situation)
+Tag output as:
+[Act 1 Chapter Outline]
+Create a detailed chapter-by-Chapter Outline here.
+[/Act 1 Chapter Outline]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested. The user will review once all the tasks have been completed.",openai.json,Outline.txt,write,1,1
+1120,,Outline,Act 2A Chapter Outline,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+2. Chapter Summaries: <<Chapter Summaries>>
+3. Outline: [Outline] <<Outline>> [/Outline]
+Prompt:
+Create a detailed chapter-by-Chapter Outline for Act 2A of our thriller. (Bear in mind that our novel will have 40 Chapters and that the acts will be structured as 1, 2A, 2B, and 3. Do not anticipate an epilogue at this time.)
+Each chapter should include:
+1. Title
+2. POV character
+3. Chapter summary (1 paragraph)
+4. Chapter tone (suspenseful, ominous, fast-paced)
+5. Chapter goal/purpose
+6. Complication or twist encountered
+7. Key decision or action taken
+8. Consequences of action
+9. POV character’s emotional reaction
+10. How the chapter emotionally engages readers (tension, dread, anxiety, anticipation)
+11. Tropes used (character, theme, place, situation)
+Tag output as:
+[Act 2A Chapter Outline]
+Create a detailed chapter-by-Chapter Outline here.
+[/Act 2A Chapter Outline]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested. The user will review once all the tasks have been completed.",openai.json,Outline.txt,append,1,1
+1130,,Outline,Act 2B Chapter Outline,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+2. Chapter Summaries: <<Chapter Summaries>>
+3. Outline: [Outline] <<Outline>> [/Outline]
+Prompt:
+Create a detailed chapter-by-Chapter Outline for Act 2B of our thriller. (Bear in mind that our novel will have 40 Chapters and that the acts will be structured as 1, 2A, 2B, and 3. Do not anticipate an epilogue at this time.)
+Each chapter should include:
+1. Title
+2. POV character
+3. Chapter summary (1 paragraph)
+4. Chapter tone (suspenseful, ominous, fast-paced)
+5. Chapter goal/purpose
+6. Complication or twist encountered
+7. Key decision or action taken
+8. Consequences of action
+9. POV character’s emotional reaction
+10. How the chapter emotionally engages readers (tension, dread, anxiety, anticipation)
+11. Tropes used (character, theme, place, situation)
+Tag output as:
+[Act 2B Chapter Outline]
+Create a detailed chapter-by-Chapter Outline here.
+[/Act 2B Chapter Outline]
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Outline.txt,append,1,1
+1140,,Outline,Act 3 Chapter Outline,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+2. Chapter Summaries: <<Chapter Summaries>>
+3. Outline: [Outline] <<Outline>> [/Outline]
+***
+Instructions:
+Prompt:
+Create a detailed chapter-by-chapter Outline for Act 3 of our thriller. (Bear in mind that our novel will have 40 Chapters and that the acts will be structured as 1, 2A, 2B, and 3.)
+Each chapter should include:
+1. Title
+2. POV character
+3. Chapter summary (1 paragraph)
+4. Chapter tone (suspenseful, ominous, fast-paced)
+5. Chapter goal/purpose
+6. Complication or twist encountered
+7. Key decision or action taken
+8. Consequences of action
+9. POV character’s emotional reaction
+10. How the chapter emotionally engages readers (tension, dread, anxiety, anticipation)
+11. Tropes used (character, theme, place, situation)
+Tag output as:
+[Act 3 Chapter Outline]
+Create a detailed chapter-by-chapter Outline here.
+[/Act 3 Chapter Outline]
+THEN, Provide at least 3 compelling ideas for the epilogue or resolution of the thriller, ensuring it delivers satisfaction to thriller readers while potentially leaving lingering questions.
+[epilogue ideas]
+Write epilogue ideas here.
+[/epilogue ideas]
+***
+Additional Instructions:
+- Do not truncate or shorten the main output.
+- Avoid adding extra steps or content beyond these instructions.
+- All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Outline.txt,append,1,1
+2010,1,plan_file,Chapter {chapter} Plan,"Project Files:
+1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+2. Outline: [Outline] <<Outline>> [/Outline]
+3. Story So Far: [Story So Far] <<Story So Far>>[/Story So Far]
+***
+Instructions:
+1. Write a detailed writing brief for Chapter {chapter}.
+2. Specify the POV Character and Voice.
+3. Highlight any must-haves, such as tropes, key decisions, realizations, important exchanges or negotiations, and so on.
+4. Only use characters and settings that have been previously established. Exception: stock characters or groups may be used if they only appear once, such as a waiter with no name or a crowd in the background that is making noise or stray comments.
+5. Avoid using references to the sun, moon, or weather elements to suggest time. Instead refer to character action, or events in motion that take place within the immediate environment.
+6. Climactic decisions are difficult due to the cost, so ensure that the rising action builds to a final difficult decision.
+7. Provide enough detail to write a 5,000-word scene.8. Avoid clich√© scene exits such as opening a door to weather and describing an internal feeling. Instead, SHOW a decision being made, a decisive action taken, or an external interruption that represents a setback.
+9. Tag output as [chapter {chapter} plan] Write the chapter plan here. [/chapter {chapter} plan].",openai.json,Chapter {chapter} Plan.txt,write,50,50
+2020,1,draft_file,Chapter {chapter} Draft,"Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter {chapter} Plan: <<{current_chapter_plan}>>
+***
+Instructions:
+1. Write Chapter {chapter}.
+2. Tag Output: [chapter {chapter} draft] Write the chapter here. [/chapter {chapter} draft]",openai.json,Chapter {chapter} Draft.txt,write,50,50
+2030,1,edit_file,Chapter {chapter} Edit,"Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter {chapter} Plan: <<{current_chapter_plan}>>
+4. Chapter {chapter} Draft: <<{current_chapter_draft}>>
+***
+Instructions:
+1. Create an actionable edit plan for Chapter {chapter}.
+2. Include specific passages and opportunities to address inconsistencies, plot holes and contrivances; improve clarity, avoid clichés, vague and purple prose, character interaction; and enhance engagement.
+3. Tag Output: [chapter {chapter} edit plan] Write the chapter here. [/chapter {chapter} edit plan]",openai.json,Chapter {chapter} Edit.txt,write,50,50
+2040,1,final_file,Chapter {chapter} Final,"Project Files:
+1. Story Bible: <<Story Bible>>
+2. Story So Far: <<Story So Far>>
+3. Chapter {chapter} Plan: <<{current_chapter_plan}>>
+4. Chapter {chapter} Draft: <<{current_chapter_draft}>>
+5. Chapter {chapter} Edit: <<{current_chapter_edit}>>***
+Instructions:
+1. Write the final polished prose for Chapter {chapter}.
+2. Tag Output: [chapter {chapter} final] Write the chapter here. [/chapter {chapter} final]",openai.json,Story So Far.txt,write,50,50
