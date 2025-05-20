@@ -333,4 +333,4 @@ Instructions:
 5. Chapter {chapter} Edit: <<{current_chapter_edit}>>***
 Instructions:
 1. Write the final polished prose for Chapter {chapter}.
-2. Tag Output: [chapter {chapter} final] Write the chapter here. [/chapter {chapter} final]",openai.json,Story So Far.txt,write,50,50
+2. Tag Output: [chapter {chapter} final] Write the chapter here. [/chapter {chapter} final]",openai.json,Story So Far.txt,append,50,50
