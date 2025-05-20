@@ -1,0 +1,2 @@
+pandas==2.2.3           # CSV file handling
+tqdm>=4.66.1            # (Optional) Progress bars for file generation
