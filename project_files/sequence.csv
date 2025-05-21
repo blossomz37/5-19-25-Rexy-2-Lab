@@ -17,9 +17,10 @@ Additional Instructions:
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Ideas.txt,write,1,1
 1020,,story_elements,Story Concept,"Project Files:
 Story Ideas: <<Story Ideas>>
+***
 Prompt:
 PART 1.
-Develop the story idea further so that there is a strong story concept that has:
+Identify the story idea that has the best long-term market viability for the genre. Develop the story idea further so that there is a strong story concept that has:
 1. A core conflict driving the thriller.
 2. High stakes involved (both personal and societal).
 3. Key elements that make the story gripping and thrilling.
@@ -361,7 +362,7 @@ Instructions:
 5. Chapter {chapter} Edit: <<{current_chapter_edit}>>***
 Instructions:
 1. Write the final polished prose for Chapter {chapter}.
-2. First output is ""# Title: ""<insert book title>""""
+2. Stick to the plan and avoid unnecessary redundancy; instead, strive for original and vivid storytelling that aligns with the [edit plan].
 3. Tag remaining output: [chapter {chapter} final] Write the chapter here. [/chapter {chapter} final]
 ***
 Additional Instructions:
