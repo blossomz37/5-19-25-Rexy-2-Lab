@@ -11,13 +11,14 @@ Tag output as:
 Write structured information here.
 [/story ideas]
 Additional Instructions:
-- Ideas concerning AI should be relegated to subplot or occasional narrative device rather than central to the story line.
+- Stories about AI are on a downward trend and readers don't enjoy them. Please ensure that the proposed stories will be enjoyable thrillers.
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Ideas.txt,write,1,1
 1020,,story_elements,Story Concept,"Project Files:
 Story Ideas: <<Story Ideas>>
 Prompt:
+PART 1.
 Develop the story idea further so that there is a strong story concept that has:
 1. A core conflict driving the thriller.
 2. High stakes involved (both personal and societal).
@@ -36,6 +37,14 @@ Tag output as:
 [story concept]
 Write structured information here.
 [/story concept]
+***
+PART 2.
+1. Create a detailed prose writing style guide specific to the subgenre for this novel. Ensure that the guide provides enough context for writing what the readers will enjoy and avoids their dislikes.
+Tag output as:
+[prose writing style guide]
+Write structured information here. 
+[/prose writing style guide]
+***
 Additional Instructions:
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
@@ -308,7 +317,7 @@ Additional Instructions:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
 2. Outline: [Outline] <<Outline>> [/Outline]
 3. Story So Far: [Story So Far] <<Story So Far>>[/Story So Far]
-***
+---
 Instructions:
 1. Write a detailed writing brief for Chapter {chapter}.
 2. Specify the POV Character and Voice.
@@ -318,27 +327,29 @@ Instructions:
 6. Climactic decisions are difficult due to the cost, so ensure that the rising action builds to a final difficult decision.
 7. Provide enough detail to write a 5,000-word scene.
 8. Avoid cliche scene exits such as opening a door to weather and describing an internal feeling. Instead, SHOW a decision being made, a decisive action taken, or an external interruption that represents a setback.
-9. First output is ""# Title: ""<insert book title>""""
+9. Adhere to the [outline].
 10. Tag output as [chapter {chapter} plan] Write the chapter plan here. [/chapter {chapter} plan].",openai.json,Chapter {chapter} Plan.txt,write,50,50
 2020,1,draft_file,Chapter {chapter} Draft,"Project Files:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
-2. Outline: [Outline] <<Outline>> [/Outline]
+2. Story So Far: [Story So Far] <<Story So Far>>[/Story So Far]
 3. Chapter {chapter} Plan: <<{current_chapter_plan}>>
 ***
 Instructions:
-1. Write Chapter {chapter}.
+1. Write Chapter {chapter}, ensuring that you adhere to the chapter plan.
 2. Tag output as: [chapter {chapter} draft] Write the chapter here. [/chapter {chapter} draft]
 ***
 Additional Instructions:
 Throughout this process, maintain consistency in tone, style, and characterization. Ensure each scene builds upon the previous ones and contributes to the overall narrative. Your goal is to create a compelling, coherent, and well-structured novel. Please make the chapters at least 3,000 words long. Character interaction, dialogue, and suspense must be the foremost goal. Readers must CARE about the characters and feel emotionally invested in the characters' journey. Avoid cliches such as opening scenes with reference to weather conditions or time of day; instead incorporate information into the narrative using best practices for well-written prose. Likewise, dialogue should be meaningful and advance character, theme, and plot development. Feel free to write a long chapter with a genre-appropriate mix of action, reaction, and a small amount of internal reflection to immerse the reader into the world and story. Characters should interact with each other through actions as well as dialogue, again contributing to the developing story as outlined in the plan.",openai.json,Chapter {chapter} Draft.txt,write,50,50
 2030,1,edit_file,Chapter {chapter} Edit,"Project Files:
 1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter {chapter} Plan: <<{current_chapter_plan}>>
-4. Chapter {chapter} Draft: <<{current_chapter_draft}>>
+2. Outline: <<Outline>>
+3. Story So Far: <<Story So Far>>
+4. Chapter {chapter} Plan: <<{current_chapter_plan}>>
+5. Chapter {chapter} Draft: <<{current_chapter_draft}>>
+
 ***
 Instructions:
-1. Create an actionable edit plan for Chapter {chapter}.
+1. Create an actionable edit plan for Chapter {chapter}, ensuring that the final draft of Chapter {chapter} flows smoothly and according to the [outline].
 2. Write general statements about the strengths and weaknesses from an editorial perspective. You want to encourage writing at length while discouraging fluff unless it would please readers of the genre.
 3. Provide examples, citing specific passages and opportunities to address inconsistencies, plot holes and contrivances; improve clarity, avoid clichés, vague and purple prose, character interaction; and enhance engagement.
 4. Tag Output: [chapter {chapter} edit plan] Write the chapter here. [/chapter {chapter} edit plan]",openai.json,Chapter {chapter} Edit.txt,write,50,50
