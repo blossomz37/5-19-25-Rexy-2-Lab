@@ -321,7 +321,7 @@ Instructions:
 9. First output is ""# Title: ""<insert book title>""""
 10. Tag output as [chapter {chapter} plan] Write the chapter plan here. [/chapter {chapter} plan].",openai.json,Chapter {chapter} Plan.txt,write,50,50
 2020,1,draft_file,Chapter {chapter} Draft,"2. First output is ""# Title: ""<insert book title>""""
-3. Tag remaining output: [chapter 1 draft] Write the chapter here. [/chapter 1 draft]
+3. Tag remaining output: [chapter {chapter} draft] Write the chapter here. [/chapter {chapter} draft]
 ***
 Additional Instructions:
 Throughout this process, maintain consistency in tone, style, and characterization. Ensure each scene builds upon the previous ones and contributes to the overall narrative. Your goal is to create a compelling, coherent, and well-structured novel. Please make the chapters at least 3,000 words long. Character interaction, dialogue, and suspense must be the foremost goal. Readers must CARE about the characters and feel emotionally invested in the characters' journey. Avoid cliches such as opening scenes with reference to weather conditions or time of day; instead incorporate information into the narrative using best practices for well-written prose. Likewise, dialogue should be meaningful and advance character, theme, and plot development. Feel free to write a long chapter with a genre-appropriate mix of action, reaction, and a small amount of internal reflection to immerse the reader into the world and story. Characters should interact with each other through actions as well as dialogue, again contributing to the developing story as outlined in the plan.",openai.json,Chapter {chapter} Draft.txt,write,50,50
@@ -345,7 +345,7 @@ Instructions:
 Instructions:
 1. Write the final polished prose for Chapter {chapter}.
 2. First output is ""# Title: ""<insert book title>""""
-3. Tag remaining output: [chapter 1 final] Write the chapter here. [/chapter 1 final]
+3. Tag remaining output: [chapter {chapter} final] Write the chapter here. [/chapter {chapter} final]
 ***
 Additional Instructions:
 Throughout this process, maintain consistency in tone, style, and characterization. Ensure each scene builds upon the previous ones and contributes to the overall narrative. Your goal is to create a compelling, coherent, and well-structured novel. Please make the chapters at least 2,000 words long. Character interaction, dialogue, and suspense must be the foremost goal. Readers must CARE about the characters and feel emotionally invested in the characters' journey. Avoid cliches such as opening scenes with reference to weather conditions or time of day; instead incorporate information into the narrative using best practices for well-written prose. Likewise, dialogue should be meaningful and advance character, theme, and plot development. Feel free to write a long chapter with a genre-appropriate mix of action, reaction, and a small amount of internal reflection to immerse the reader into the world and story. Characters should interact with each other through actions as well as dialogue, again contributing to the developing story as outlined in the plan.",openai.json,Story So Far.txt,append,50,50
