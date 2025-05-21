@@ -1,7 +1,7 @@
 ﻿file_ID,chapter_number,file_type,name,prompt,ai_model,output,output_mode,quantity,increment
 1010,,story_elements,Story Ideas,"Prompt:
 Provide 5 story ideas for a thriller novella. Make the story ideas suspenseful, gripping, and believable, with a focus on high stakes and potential twists. Each idea should:
-1. Incorporate at least three common thriller subgenres or elements (e.g., psychological, mystery, crime, suspense, conspiracy, espionage, techno-thriller, political thriller, etc.).
+1. Incorporate at least three common thriller subgenres or elements (e.g., psychological, mystery, crime, suspense, conspiracy, espionage, political thriller, etc.).
 2. Be suspenseful, gripping, and believable.
 3. Highlight high stakes clearly (both personal and external).
 4. Include potential twists.
@@ -11,6 +11,7 @@ Tag output as:
 Write structured information here.
 [/story ideas]
 Additional Instructions:
+- Ideas concerning AI should be relegated to subplot or occasional narrative device rather than central to the story line.
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Ideas.txt,write,1,1
@@ -79,6 +80,7 @@ Additional Instructions:
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
 1050,,story_elements,Key Elements and Subtext,"Project Files:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+***
 Prompt:
 Identify and list specific thriller elements, subgenres, and obligatory scenes (e.g., Hero at the Mercy of the Villain, icking Clock Scenario, False Resolution) that must appear in the story.
 For each selected element, clearly detail:
@@ -90,12 +92,14 @@ Tag output as:
 [key elements and twists]
 Write structured information here.
 [/key elements and twists]
+***
 Additional Instructions:
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
 1060,,story_elements,Protagonist Arc,"Project Files:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+***
 Prompt:
 Clearly plot the protagonist’s internal and external journey throughout the thriller. Detail specifically:
 1. Internal arc: fears, doubts, growth, and character change.
@@ -106,12 +110,14 @@ Tag output as:
 [protagonist arc]
 Write structured information here.
 [/protagonist arc]
+***
 Additional Instructions:
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
 1070,,story_elements,Antagonist Arc,"Project Files:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+***
 Prompt:
 Detail the antagonist’s journey and trajectory throughout the thriller. Address clearly:
 1. Shifts in power, desperation, or methods.
@@ -123,29 +129,33 @@ Tag output as:
 [antagonist arc]
 Write structured information here.
 [/antagonist arc]
+***
 Additional Instructions:
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
 1080,,story_elements,Setting Details,"Project Files:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+***
 Prompt:
 Describe the primary setting(s) for the thriller in detail. Clearly specify:
 1. Geographic location(s) and time period.
 2. Specific key locations and their descriptions (e.g., hospital, cabin, courthouse).
 3. Atmosphere and mood of each location (tense, claustrophobic, gritty, etc.).
 4. How the setting enhances suspense and reader engagement.
-5. ypical weather conditions and their influence on the story.
+5. Seasonal weather events that might influence the story.
 Tag output as:
 [setting details]
 Write structured information here.
 [/setting details]
+***
 Additional Instructions:
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
 - All prompts are run through a closed prompt sequencer that does not allow chat, so it is best to provide only the requested information. The user will review once all the tasks have been completed.",openai.json,Story Bible.txt,append,1,1
 1090,,story_bible,Supporting Characters,"Project Files:
 1. Story Bible: [Story Bible] <<Story Bible>> [/Story Bible]
+***
 Prompt:
 Provide short, focused bios for supporting characters in the thriller story. Ensure each supporting character contributes meaningfully to thriller tension and suspense. Include clearly:
 1. Their role in the story (ally, suspect, victim, law enforcement, etc.).
@@ -156,6 +166,7 @@ Tag output as:
 [supporting characters]
 Write structured information here.
 [/supporting characters]
+***
 Additional Instructions:
 - Do not truncate or shorten the main output.
 - Avoid adding extra steps or content beyond these instructions.
@@ -305,16 +316,15 @@ Instructions:
 4. Only use characters and settings that have been previously established. Exception: stock characters or groups may be used if they only appear once, such as a waiter with no name or a crowd in the background that is making noise or stray comments.
 5. Avoid using references to the sun, moon, or weather elements to suggest time. Instead refer to character action, or events in motion that take place within the immediate environment.
 6. Climactic decisions are difficult due to the cost, so ensure that the rising action builds to a final difficult decision.
-7. Provide enough detail to write a 5,000-word scene.8. Avoid clich√© scene exits such as opening a door to weather and describing an internal feeling. Instead, SHOW a decision being made, a decisive action taken, or an external interruption that represents a setback.
-9. Tag output as [chapter {chapter} plan] Write the chapter plan here. [/chapter {chapter} plan].",openai.json,Chapter {chapter} Plan.txt,write,50,50
-2020,1,draft_file,Chapter {chapter} Draft,"Project Files:
-1. Story Bible: <<Story Bible>>
-2. Story So Far: <<Story So Far>>
-3. Chapter {chapter} Plan: <<{current_chapter_plan}>>
+7. Provide enough detail to write a 5,000-word scene.
+8. Avoid cliche scene exits such as opening a door to weather and describing an internal feeling. Instead, SHOW a decision being made, a decisive action taken, or an external interruption that represents a setback.
+9. First output is ""# Title: ""<insert book title>""""
+10. Tag output as [chapter {chapter} plan] Write the chapter plan here. [/chapter {chapter} plan].",openai.json,Chapter {chapter} Plan.txt,write,50,50
+2020,1,draft_file,Chapter {chapter} Draft,"2. First output is ""# Title: ""<insert book title>""""
+3. Tag remaining output: [chapter 1 draft] Write the chapter here. [/chapter 1 draft]
 ***
-Instructions:
-1. Write Chapter {chapter}.
-2. Tag Output: [chapter {chapter} draft] Write the chapter here. [/chapter {chapter} draft]",openai.json,Chapter {chapter} Draft.txt,write,50,50
+Additional Instructions:
+Throughout this process, maintain consistency in tone, style, and characterization. Ensure each scene builds upon the previous ones and contributes to the overall narrative. Your goal is to create a compelling, coherent, and well-structured novel. Please make the chapters at least 3,000 words long. Character interaction, dialogue, and suspense must be the foremost goal. Readers must CARE about the characters and feel emotionally invested in the characters' journey. Avoid cliches such as opening scenes with reference to weather conditions or time of day; instead incorporate information into the narrative using best practices for well-written prose. Likewise, dialogue should be meaningful and advance character, theme, and plot development. Feel free to write a long chapter with a genre-appropriate mix of action, reaction, and a small amount of internal reflection to immerse the reader into the world and story. Characters should interact with each other through actions as well as dialogue, again contributing to the developing story as outlined in the plan.",openai.json,Chapter {chapter} Draft.txt,write,50,50
 2030,1,edit_file,Chapter {chapter} Edit,"Project Files:
 1. Story Bible: <<Story Bible>>
 2. Story So Far: <<Story So Far>>
@@ -323,8 +333,9 @@ Instructions:
 ***
 Instructions:
 1. Create an actionable edit plan for Chapter {chapter}.
-2. Include specific passages and opportunities to address inconsistencies, plot holes and contrivances; improve clarity, avoid clichés, vague and purple prose, character interaction; and enhance engagement.
-3. Tag Output: [chapter {chapter} edit plan] Write the chapter here. [/chapter {chapter} edit plan]",openai.json,Chapter {chapter} Edit.txt,write,50,50
+2. Write general statements about the strengths and weaknesses from an editorial perspective. You want to encourage writing at length while discouraging fluff unless it would please readers of the genre.
+3. Provide examples, citing specific passages and opportunities to address inconsistencies, plot holes and contrivances; improve clarity, avoid clichés, vague and purple prose, character interaction; and enhance engagement.
+4. Tag Output: [chapter {chapter} edit plan] Write the chapter here. [/chapter {chapter} edit plan]",openai.json,Chapter {chapter} Edit.txt,write,50,50
 2040,1,final_file,Chapter {chapter} Final,"Project Files:
 1. Story Bible: <<Story Bible>>
 2. Story So Far: <<Story So Far>>
@@ -333,4 +344,8 @@ Instructions:
 5. Chapter {chapter} Edit: <<{current_chapter_edit}>>***
 Instructions:
 1. Write the final polished prose for Chapter {chapter}.
-2. Tag Output: [chapter {chapter} final] Write the chapter here. [/chapter {chapter} final]",openai.json,Story So Far.txt,append,50,50
+2. First output is ""# Title: ""<insert book title>""""
+3. Tag remaining output: [chapter 1 final] Write the chapter here. [/chapter 1 final]
+***
+Additional Instructions:
+Throughout this process, maintain consistency in tone, style, and characterization. Ensure each scene builds upon the previous ones and contributes to the overall narrative. Your goal is to create a compelling, coherent, and well-structured novel. Please make the chapters at least 2,000 words long. Character interaction, dialogue, and suspense must be the foremost goal. Readers must CARE about the characters and feel emotionally invested in the characters' journey. Avoid cliches such as opening scenes with reference to weather conditions or time of day; instead incorporate information into the narrative using best practices for well-written prose. Likewise, dialogue should be meaningful and advance character, theme, and plot development. Feel free to write a long chapter with a genre-appropriate mix of action, reaction, and a small amount of internal reflection to immerse the reader into the world and story. Characters should interact with each other through actions as well as dialogue, again contributing to the developing story as outlined in the plan.",openai.json,Story So Far.txt,append,50,50
