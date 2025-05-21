@@ -84,3 +84,4 @@ dmypy.json
 # Ignore all folders in project_files that begin with 'output'
 project_files/output_*
 generation_log.txt
+generation_log.txt
